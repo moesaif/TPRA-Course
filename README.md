@@ -5,7 +5,8 @@ Before you can do anything with a programming language, you first need to config
 
 Python comes pre-installed on Mac and a majority of Linux distributions. However, you may need to download an updated version depending on how old your system is.
  
-TIP: You can easily check your Python version by opening the terminal and running the following command:
+# TIP:
+You can easily check your Python version by opening the terminal and running the following command:
 
 python -V
 
@@ -13,15 +14,18 @@ If you're running Windows, you'll need to download Python from the Python Softwa
 How Do I Get Python?
 If you need to download Python, the best place to go is the official site. You'll need to download the version specific to your operating system and processor (32 or 64 bit).
 
-Mac: Most Mac OS X computers already have Python 2.x installed, which is perfectly fine to use. The best way to install the latest version is to use Homebrew to activate and manage them. You'll find instructions on how to do that here. You can also download Python directly from the PSF if you prefer.
+# Mac: 
+Most Mac OS X computers already have Python 2.x installed, which is perfectly fine to use. The best way to install the latest version is to use Homebrew to activate and manage them. You'll find instructions on how to do that here. You can also download Python directly from the PSF if you prefer.
 
-Linux: Python is included with most distributions of Linux. Check your current version and be sure to upgrade using the package manager, if necessary.
+# Linux: 
+Python is included with most distributions of Linux. Check your current version and be sure to upgrade using the package manager, if necessary.
  
-Windows: Just download Python from the PSF.
+# Windows: 
+Just download Python from the PSF.
  
 TIP: If you're using Windows, be sure to select the option that adds Python.exe to your system path during installation. You can do this by selecting the option next to "Add python.exe to path," and then choosing your local hard drive as the install location.
 
-Which Version Should I Use?
+# Which Version Should I Use?
 
 There are two main versions of Python, which can make things confusing for beginners and novice coders. The two versions are Python 2.x and 3.x. The good news is that when it comes to syntax, they are pretty much identical, and it's acceptable to develop with both versions.
  
