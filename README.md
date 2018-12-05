@@ -20,7 +20,9 @@ Linux: Python is included with most distributions of Linux. Check your current v
 Windows: Just download Python from the PSF.
  
 TIP: If you're using Windows, be sure to select the option that adds Python.exe to your system path during installation. You can do this by selecting the option next to "Add python.exe to path," and then choosing your local hard drive as the install location.
+
 Which Version Should I Use?
+
 There are two main versions of Python, which can make things confusing for beginners and novice coders. The two versions are Python 2.x and 3.x. The good news is that when it comes to syntax, they are pretty much identical, and it's acceptable to develop with both versions.
  
 Version 3.5.x of Python (or greater) is currently in active development. This means that it is constantly receiving new features and functionality, as the open source community continues to develop it. If you want bleeding edge in terms of features and support, then 3.5.x is the way to go.
