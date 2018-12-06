@@ -1,0 +1,4 @@
+git add * 
+git commit -m "This is my Commit"
+git pull origin master
+git push origin master 
